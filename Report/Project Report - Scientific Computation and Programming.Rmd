@@ -6,7 +6,9 @@ editor_options:
   markdown: 
     wrap: 72
 ---
+```{r}
 
+```
 # Abstract
 
 Optimization is maximizing or minimizing a real function by
