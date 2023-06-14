@@ -1,7 +1,7 @@
 # Optimization Techniques for Curve Fitting and Logistic Regression
 This project focuses on implementing optimization techniques for curve fitting and logistic regression. The objective is to find the best-fitting curves or parameters by minimizing the residuals or maximizing the log likelihood function.
 
-![](https://github.com/MownikaKonamaneni/Optimization/blob/main/figures/Optimization.jpg)
+[<img target="_blank" src= "https://github.com/MownikaKonamaneni/Optimization/blob/main/figures/Optimization.jpg" width="600">]
 
 ## Project Description
 The project involves applying optimization techniques to solve three different problems:
